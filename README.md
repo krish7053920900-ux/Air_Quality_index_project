@@ -65,3 +65,25 @@ How to Navigate the Repository
 /Notebooks: Includes the .ipynb file used for KPI calculations and data cleaning.
 
 /Dashboard: Contains the .pbix Power BI file and high-resolution screenshots.
+
+📊 Results & Key Insights
+
+PM2.5 emerged as the dominant pollutant, significantly influencing overall air quality. Elevated PM2.5 levels were observed consistently, indicating high exposure to fine particulate matter, which poses serious health risks.
+
+A large percentage of days exceeded the WHO-recommended safe PM2.5 limit, highlighting prolonged exposure to unsafe air quality conditions in the studied regions.
+
+Seasonal variation in air pollution was clearly observed, with winter months showing the highest pollution levels, likely due to temperature inversion, increased emissions, and reduced atmospheric dispersion.
+
+Monthly AQI trends revealed recurring pollution peaks, suggesting predictable periods of poor air quality that can support early-warning and mitigation planning.
+
+AQI volatility analysis indicated high fluctuation during certain months, reflecting unstable pollution patterns and increased health risk due to sudden AQI spikes.
+
+Long-term trend analysis using moving averages showed sustained high pollution levels, confirming that air quality deterioration is not limited to isolated events but represents a persistent environmental challenge.
+
+Weekday vs weekend analysis showed noticeable differences in pollution levels, suggesting the influence of traffic density, industrial activity, and human behavior on air quality.
+
+Worst-performing months were identified based on average PM2.5 concentrations, enabling targeted interventions during critical periods of the year.
+
+Pollution category distribution analysis indicated a higher proportion of moderate to unhealthy days, with relatively fewer days falling under safe air quality categories.
+
+Overall findings emphasize the urgent need for pollution control measures, improved air quality monitoring, and data-driven policy interventions to mitigate long-term health impacts.
